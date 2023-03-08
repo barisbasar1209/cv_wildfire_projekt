@@ -20,7 +20,7 @@ Deaktivieren
 
 	Kannst du überall ausführen, klappt natürlich nur wenn die Umgebung vorher aktiv ist
 
-	deactivate 
+	"deactivate"
 
 Nutzen
 	
