@@ -2,7 +2,7 @@ Alle Befehle markiere ich mit "..." , alles was in <...> steht ist zum selbstein
 
 Einrichten 
 
-	1. "pip3 install --upgrade"
+	1. "pip3 install --upgrade pip"
 	2. "pip install virtualenv"
 	3. venvs Ordner erstellen für diese und alle weiteren virtuellen Umgebungen. Überall möglich aber am besten nicht innerhalb eines Projekts selbst
 	4. im venvs ordner folgendes ausführen: virtualenv <venv-name-selbst-wählen> 
